@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Chrome, Firefox OS and Opera -->
-	<meta name="theme-color" content="#4285f4">
-	<!-- Windows Phone -->
-	<meta name="msapplication-navbutton-color" content="#4285f4">
-	<!-- iOS Safari -->
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	  <meta name="theme-color" content="#4285f4">
+  	<!-- Windows Phone -->
+  	<meta name="msapplication-navbutton-color" content="#4285f4">
+  	<!-- iOS Safari -->
+  	<meta name="apple-mobile-web-app-capable" content="yes">
+  	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Featherwebs</title>
 
